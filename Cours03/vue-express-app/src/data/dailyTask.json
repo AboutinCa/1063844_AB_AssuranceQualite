@@ -1,0 +1,7 @@
+[
+    { "dailyTask": "Chauffer le poele" ,                    "completion": false},
+    { "dailyTask": "Cuisiner le souper",                    "completion": false},
+    { "dailyTask": "Sortir et nourrir les chiens" ,         "completion": false},
+    { "dailyTask": "Divertir Jacob" ,                       "completion": false}
+]
+  
